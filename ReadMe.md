@@ -83,7 +83,7 @@ label._
 
 Please file an issue for bugs, missing documentation, or unexpected behavior.
 
-[**See Bugs**][bugs]
+[**See Bugs**](https://github.com/bilalyaqoob/react-range-slider/issues)
 
 ### 💡 Feature Requests
 
