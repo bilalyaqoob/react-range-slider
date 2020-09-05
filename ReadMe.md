@@ -90,11 +90,11 @@ Please file an issue for bugs, missing documentation, or unexpected behavior.
 Please file an issue to suggest new features. Vote on feature requests by adding
 a 👍. This helps maintainers prioritize what to work on.
 
-[**See Feature Requests**](https://github.com/bilalyaqoob/react-range-slider/issues)
+[**See Feature Requests**][requests]
 
 ## Contributors ✨
 
-Thanks goes to these people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
+Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -118,7 +118,7 @@ Thanks goes to these people ([emoji key](https://github.com/all-contributors/all
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
+This project follows the [all-contributors][all-contributors] specification.
 Contributions of any kind welcome!
 
 ## LICENSE
