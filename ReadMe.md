@@ -8,7 +8,7 @@
 
 <!-- prettier-ignore-start -->
 [![npm](https://img.shields.io/npm/v/@bilal111996/react-range-slider)](https://www.npmjs.com/package/@bilal111996/react-range-slider)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)][license]
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 <!-- prettier-ignore-end -->
 
 ## Table of Contents
