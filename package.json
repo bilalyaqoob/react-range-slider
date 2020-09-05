@@ -3,6 +3,11 @@
     "version": "0.1.1",
     "description": "This is an awesome react range slide, made with love ❤❤❤ by bilal yaqoob",
     "main": "./lib/react-range-slider.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bilalyaqoob/react-range-slider.git"
+    },
+    "homepage": "https://github.com/bilalyaqoob/react-range-slider#readme",
     "license": "MIT",
     "scripts": {
         "build": "webpack"
