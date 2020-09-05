@@ -76,7 +76,7 @@ export default App = () => {
 
 ## Issues
 
-_Looking to contribute? Look for the [Good First Issue][good-first-issue]
+_Looking to contribute? Look for the [Good First Issue](https://github.com/bilalyaqoob/react-range-slider/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 label._
 
 ### 🐛 Bugs
