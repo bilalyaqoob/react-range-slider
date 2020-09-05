@@ -7,6 +7,18 @@
         "type": "git",
         "url": "https://github.com/bilalyaqoob/react-range-slider.git"
     },
+    "keywords": [
+        "react",
+        "react-component",
+        "react-slider",
+        "slider",
+        "input",
+        "range",
+        "range-slider", 
+        "range",
+        "reactcomponent"
+    ],
+    "author": "Bilal Yaqoob",
     "homepage": "https://github.com/bilalyaqoob/react-range-slider#readme",
     "license": "MIT",
     "scripts": {
