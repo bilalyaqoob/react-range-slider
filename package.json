@@ -1,6 +1,6 @@
 {
     "name": "@bilal111996/react-range-slider",
-    "version": "0.1.1",
+    "version": "0.1.4",
     "description": "This is an awesome react range slide, made with love ❤❤❤ by bilal yaqoob",
     "main": "./lib/react-range-slider.js",
     "repository": {
