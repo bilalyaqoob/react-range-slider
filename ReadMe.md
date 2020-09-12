@@ -43,9 +43,9 @@ yarn add @bilal111996/react-range-slider
 
 ## Showcase
 
-![@bilal111996/react-range-slider verticle](https://github.com/bilalyaqoob/react-range-slider/blob/master/verticle.gif)
+![@bilal111996/react-range-slider verticle](https://raw.githubusercontent.com/bilalyaqoob/react-range-slider/master/verticle.gif)
 
-![@bilal111996/react-range-slider horizontal](https://github.com/bilalyaqoob/react-range-slider/blob/master/horizontal.gif)
+![@bilal111996/react-range-slider horizontal](https://raw.githubusercontent.com/bilalyaqoob/react-range-slider/master/horizontal.gif)
 
 ## Usage
 
