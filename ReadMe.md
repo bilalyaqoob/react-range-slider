@@ -73,7 +73,6 @@ export default App = () => {
 }
 
 ```
-<a href="https://www.bluehost.com/track/bilal111996/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/bilal111996/760x80/760x80BW.png"> </a>
 
 ## Issues
 
