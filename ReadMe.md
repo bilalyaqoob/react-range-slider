@@ -121,6 +121,10 @@ Thanks goes to these people ([emoji key](https://github.com/all-contributors/all
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 Contributions of any kind welcome!
 
+<a href="https://www.patreon.com/bilal111996" target="_blank">
+  <img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" alt="Buy Me A Coffee" height="50px;" width="180px;">
+</a>
+
 ## LICENSE
 
 MIT
