@@ -17,7 +17,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Installation](#installation)
-- [Showcase](#showcase)
 - [Usage](#usage)
 - [Issues](#issues)
   - [🐛 Bugs](#-bugs)
@@ -40,13 +39,6 @@ or
 ```
 yarn add @bilal111996/react-range-slider
 ```
-
-## Showcase
-
-![@bilal111996/react-range-slider verticle](https://raw.githubusercontent.com/bilalyaqoob/react-range-slider/master/verticle.gif)
-
-![@bilal111996/react-range-slider horizontal](https://raw.githubusercontent.com/bilalyaqoob/react-range-slider/master/horizontal.gif)
-
 ## Usage
 
 ```javascript
